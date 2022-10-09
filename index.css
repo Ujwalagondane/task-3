@@ -18,8 +18,8 @@
 .nav-2{
     height:30px;
     width:100%;
-    background-color:rgb(59, 59, 102);
-    border: 3px  solid rgb(59, 59, 102);
+    background-color:rgb(66, 142, 172);
+    border: 3px  solid rgb(66, 142, 172);
 }
     
 .container-1{
@@ -36,24 +36,24 @@
     height:230px;
     width: 400px;
     margin-top:10px;
-    margin-left:9px;
-    border-radius: 15px;
-    background-color: rgb(137, 133, 133);
+    margin-left:10px;
+    border-radius: 20px;
+    background-color:  rgb(24, 22, 22);
 }
     
 .mike-img{
-    height: 35px;
-    width: 35px;
-    border:1px rgb(128, 123, 123);
-    border-radius: 100%;
-    margin-left: 350px;
+    height: 42px;
+    width: 42px;
+    border:none;
+    border-radius: 50%;
+    margin-left: 340px;
     margin-top: 12px;
 }
     
 .blank-img{
     height: 130px;
     width: 130px;
-    border:1px white;
+    border:1px rgb(255, 255, 255);
     border-radius: 100%;
     margin-left: 130px;
     margin-top: 5px;
@@ -62,7 +62,7 @@
 h1{
     font-size: 17px;
     font-family: Arial;
-    color: rgb(8, 8, 8);
+    color: rgb(253, 252, 252);
     margin-left: 25px;
     margin-bottom: 30px;
 }
@@ -70,7 +70,7 @@ h1{
 .container-2{
     height: 700px;
     width: 400px;
-    background-color: white;
+    background-color: rgb(253, 249, 249);
     border:1px white;
     border-radius: 15px;
     margin-top:15px;
